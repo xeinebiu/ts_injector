@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "author": "xeinebiu@gmail.com",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +11,20 @@
     "type": "git",
     "url": "git+https://github.com/xeinebiu/ts_injector.git"
   },
-  "author": "",
+  "keywords": [
+    "typescript",
+    "injection",
+    "dependency",
+    "browser",
+    "node",
+    "nodejs",
+    "angular",
+    "react",
+    "vue",
+    "graph",
+    "dependency-manager",
+    "javascript"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/xeinebiu/ts_injector/issues"
