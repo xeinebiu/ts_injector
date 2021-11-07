@@ -5,7 +5,7 @@ Simple and lightweight injector for typescript projects.
 
 ## Installation
 ``
-npm install @xeinebiu/ts_injector@1.0.0
+npm install @xeinebiu/ts_injector@1.0.2
 ``
 
 ## Modules
