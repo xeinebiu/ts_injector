@@ -1,4 +1,9 @@
 ## Typescript Injector
+![](https://img.shields.io/badge/minzipped%20size-7%20kb-green)
+![](https://img.shields.io/badge/build-passing-green)
+![](https://img.shields.io/badge/Typescript-100%25-green)
+![](https://img.shields.io/badge/License-MIT-green)
+
 Simple and lightweight injector for typescript projects.
 
 ---
